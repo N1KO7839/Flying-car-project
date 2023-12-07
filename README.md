@@ -15,9 +15,9 @@
 
 ![render1](https://github.com/N1KO7839/Flying-car-project/blob/main/Renders/render1.jpg)
 
-![Render2](https://github.com/N1KO7839/Latajace_auto/assets/140983640/2db033d9-a15b-4a8b-ab12-3c97a4a10618)
+![Render2](https://github.com/N1KO7839/Flying-car-project/blob/main/Renders/Render2.jpg)
 
-![Render3](https://github.com/N1KO7839/Latajace_auto/assets/140983640/b6bfd06d-e6f9-43d3-a3b0-4240b4e97572)
+![Render3](https://github.com/N1KO7839/Flying-car-project/blob/main/Renders/Render3.jpg)
 
 ## 🚗 Car
 
@@ -27,10 +27,10 @@
 
 ### 📸 Several screenshots of car topology
 
-![Car-screenshot-no1](https://github.com/N1KO7839/Latajace_auto/assets/140983640/e4ea513b-a191-4f58-90ef-7e906ec8c3ab)
-![Car-screenshot-no4](https://github.com/N1KO7839/Latajace_auto/assets/140983640/640105e2-48ad-43b4-9463-45ded76e455e)
-![Car-screenshot-no2](https://github.com/N1KO7839/Latajace_auto/assets/140983640/f58156f8-e73a-4a3a-8c57-ad3da1a04876)
-![Car-screenshot-no3](https://github.com/N1KO7839/Latajace_auto/assets/140983640/325d78e7-fcac-4bcd-bc20-9cabfc6c5061)
+![Car-screenshot-no1](https://github.com/N1KO7839/Flying-car-project/blob/main/Screenshots/Car-screenshot-no1.png)
+![Car-screenshot-no4](https://github.com/N1KO7839/Flying-car-project/blob/main/Screenshots/Car-screenshot-no4.png)
+![Car-screenshot-no2](https://github.com/N1KO7839/Flying-car-project/blob/main/Screenshots/Car-screenshot-no2.png)
+![Car-screenshot-no3](https://github.com/N1KO7839/Flying-car-project/blob/main/Screenshots/Car-screenshot-no3.png)
 
 ### 📹 Render of car
 
@@ -44,15 +44,15 @@
 
 ### 🌇 Map without textures 
 
-![Map-screenshot-no1](https://github.com/N1KO7839/Latajace_auto/assets/140983640/220cc0dd-2865-4c4f-85f9-484ad1102380)
+![Map-screenshot-no1](https://github.com/N1KO7839/Flying-car-project/blob/main/Screenshots/without_textures.png)
 
 ### 🪄 Shading 
 
-![Map-screenshot-no2](https://github.com/N1KO7839/Latajace_auto/assets/140983640/0efbd485-8d5d-407e-8fef-24253d0f4d7f)
+![Map-screenshot-no2](https://github.com/N1KO7839/Flying-car-project/blob/main/Screenshots/shading.png)
 
 ### ✨ The final product
 
-![Map-screenshot-no3](https://github.com/N1KO7839/Latajace_auto/assets/140983640/c30a2062-c2f1-41d6-be0b-2b271e020de6)
+![Map-screenshot-no3](https://github.com/N1KO7839/Flying-car-project/blob/main/Screenshots/with_textures.png)
 
 ## ⬇️ Download files
 

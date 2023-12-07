@@ -13,7 +13,7 @@
 
 🎥 Renders were made by [**animniko**](https://www.instagram.com/animniko/).
 
-![render1](https://github.com/N1KO7839/Latajace_auto/assets/140983640/696f744a-26ad-4528-9a09-b575cdda744f)
+![render1](https://github.com/N1KO7839/Flying-car-project/blob/main/Renders/render1.jpg)
 
 ![Render2](https://github.com/N1KO7839/Latajace_auto/assets/140983640/2db033d9-a15b-4a8b-ab12-3c97a4a10618)
 

@@ -56,6 +56,5 @@
 
 ## ⬇️ Download files
 
-- [**Download**](https://mega.nz/file/tv8UFajT#76BFh06UqcQ5jwYxgd8Cs7T8rIC1pKPWYUBn212G2C8) Car 🚗
+- [**Download**](https://mega.nz/file/EzEXGbYA#IlNu3mpsCzd9ecb1T3MtCQFIuv1EO34EsSaLBcRnJEg) Car 🚗
 - [**Download**](https://mega.nz/file/gylTFSBb#tosYZsMoezxVL6pDvMotZGJNobC1bFr2dfs8TsFJ8C8) Map 🏙️
-- [**Download**](https://mega.nz/file/1uUlELzK#SvzEZtXozwcJpHu8oBlVyrKTLG9a0QMv0sYbkfYO93I) Car & Map 🛣️

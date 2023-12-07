@@ -1,4 +1,4 @@
-# <p align="center">Project Flying Car</p>
+# <p align="center">Flying Car Project</p>
 
 [![Instagram - Animniko](https://img.shields.io/static/v1?label=Instagram&message=AnimNiko&color=ff69b4&logo=github)](https://www.instagram.com/animniko/)
 [![Instagram - TeeqPRO](https://img.shields.io/static/v1?label=Instagram&message=TeeqPRO&color=blueviolet&logo=github)](https://www.instagram.com/teeqpro/)

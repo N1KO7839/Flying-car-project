@@ -42,15 +42,15 @@
 
 🏙️Map was made by [**animniko**](https://www.instagram.com/animniko/). The map is the exact copy of **chicago**. We used a plugin named [**Google maps into blender**](https://prochitecture.gumroad.com/l/blender-osm?layout=profile). This plugin use **Google Maps** data and exports it into blender. We also watched [**this**](https://www.youtube.com/watch?v=JC9IYCF-IAE) tutorial before using that plugin.
 
-## 🌇 Map without textures 
+### 🌇 Map without textures 
 
 ![Map-screenshot-no1](https://github.com/N1KO7839/Latajace_auto/assets/140983640/220cc0dd-2865-4c4f-85f9-484ad1102380)
 
-## 🪄 Shading 
+### 🪄 Shading 
 
 ![Map-screenshot-no2](https://github.com/N1KO7839/Latajace_auto/assets/140983640/0efbd485-8d5d-407e-8fef-24253d0f4d7f)
 
-## ✨ The final product
+### ✨ The final product
 
 ![Map-screenshot-no3](https://github.com/N1KO7839/Latajace_auto/assets/140983640/c30a2062-c2f1-41d6-be0b-2b271e020de6)
 

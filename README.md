@@ -25,14 +25,14 @@
 
 🚘Car was made by [**TeeqPRO**](https://www.instagram.com/teeqpro/). The 3D model of the Mercedes G-Class is a rendition of the iconic **Off-road/Luxury vehicle**. It impeccably captures the distinctive characteristics of this car, maintaining precision and intricate details. Some materails and textures that we used are from [**BlenderKit**](https://www.blenderkit.com/get-blenderkit/) it's fantastic plugin that contains huge library of 3d **🔨models, 🧶materials** & **🪨textures.**
 
-### Several screenshots of car topology
+### 📸 Several screenshots of car topology
 
 ![Car-screenshot-no1](https://github.com/N1KO7839/Latajace_auto/assets/140983640/e4ea513b-a191-4f58-90ef-7e906ec8c3ab)
 ![Car-screenshot-no4](https://github.com/N1KO7839/Latajace_auto/assets/140983640/640105e2-48ad-43b4-9463-45ded76e455e)
 ![Car-screenshot-no2](https://github.com/N1KO7839/Latajace_auto/assets/140983640/f58156f8-e73a-4a3a-8c57-ad3da1a04876)
 ![Car-screenshot-no3](https://github.com/N1KO7839/Latajace_auto/assets/140983640/325d78e7-fcac-4bcd-bc20-9cabfc6c5061)
 
-### Render of car
+### 📹 Render of car
 
 ![G-class-only](https://github.com/N1KO7839/Flying-car-project/assets/140983640/ea5546fe-6814-4f69-ba99-22f0f43bec78)
 

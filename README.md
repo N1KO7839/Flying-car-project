@@ -46,7 +46,7 @@
 
 ![Map-screenshot-no1](https://github.com/N1KO7839/Flying-car-project/blob/main/Screenshots/without_textures.png)
 
-### 🪄 Shading 
+### 🔧 Shading 
 
 ![Map-screenshot-no2](https://github.com/N1KO7839/Flying-car-project/blob/main/Screenshots/shading.png)
 
